@@ -5,6 +5,6 @@ __pycache__/
 venv/
 .DS_Store
 *.log
-*.Zone.Identifier
+*:Zone.Identifier
 *.docs/
 .tfm/
