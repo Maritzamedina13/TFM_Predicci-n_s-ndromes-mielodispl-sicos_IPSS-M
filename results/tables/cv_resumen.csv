@@ -1,0 +1,8 @@
+,AUC-ROC,AUC-ROC,AUC-PR,AUC-PR
+,mean,std,mean,std
+modelo,,,,
+IPSS-M (puntuación),0.751,0.023,0.378,0.035
+IPSS-R (puntuación),0.706,0.04,0.321,0.043
+Random forest,0.771,0.03,0.407,0.053
+Red neuronal (DNN),0.75,0.016,0.373,0.049
+Regresión logística,0.765,0.022,0.402,0.035

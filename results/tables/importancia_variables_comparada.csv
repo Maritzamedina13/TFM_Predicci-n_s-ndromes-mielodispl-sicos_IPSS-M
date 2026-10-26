@@ -1,0 +1,114 @@
+variable,SHAP_DNN,SHAP_RF,LR_abs_coef,rank_SHAP_DNN,rank_SHAP_RF,rank_LR_abs_coef,direccion_DNN
+Blastos MO (%),0.04036,0.09011,0.51135,1,1,4,↑ riesgo
+Nº mutaciones conductoras,0.02793,0.01522,0.08052,2,8,71,↑ riesgo
+Monocitos (faltante),0.01477,0.00746,0.1925,3,20,40,↑ riesgo
+Nº genes residuales IPSS-M,0.01393,0.02112,0.1018,4,4,64,↑ riesgo
+Nº genes conductores,0.01386,0.01538,0.24626,5,7,26,↑ riesgo
+Monocitos,0.01349,0.0276,0.1532,6,2,51,↓ riesgo
+SF3B1 mutado,0.01279,0.00866,0.12605,7,18,56,↓ riesgo
+Nº mutaciones TP53,0.01129,0.00338,0.14352,8,29,53,↑ riesgo
+Riesgo citogenético IPSS-R,0.01074,0.00898,0.13889,9,16,54,↑ riesgo
+TET2 mutado,0.00977,0.00884,0.3005,10,17,19,↓ riesgo
+Hemoglobina,0.00851,0.01249,0.09947,11,12,66,↑ riesgo
+Neutrófilos,0.00846,0.01518,0.29645,12,9,20,↓ riesgo
+VAF máx. conductora,0.00835,0.01616,0.06991,13,6,79,↑ riesgo
+Blastos MO (%) (faltante),0.00792,0.00404,0.17665,14,26,46,↑ riesgo
+TMB,0.00746,0.0064,0.04623,15,22,92,↑ riesgo
+Blastos SP (%),0.00743,0.00349,0.02918,16,28,99,↑ riesgo
+WHO_2016=MDS-EB2,0.00711,0.02036,0.01324,17,5,106,↑ riesgo
+Neutrófilos (faltante),0.007,0.00042,0.09104,18,63,68,↓ riesgo
+Edad,0.00695,0.02645,0.11632,19,3,59,↓ riesgo
+Cariotipo normal,0.00639,0.00278,0.07083,20,31,78,↓ riesgo
+VAF máx. TP53,0.00603,0.01035,0.0384,21,13,93,↑ riesgo
+Blastos SP (%) (faltante),0.00548,0.00185,0.10439,22,38,62,↓ riesgo
+Leucocitos,0.00465,0.00929,0.36592,23,14,10,↓ riesgo
+del(5q),0.00435,0.00422,0.15973,24,25,49,↑ riesgo
+DNMT3A mutado,0.00417,0.00669,0.43569,25,21,6,↑ riesgo
+Plaquetas,0.00399,0.01507,0.00822,26,10,110,↑ riesgo
+Leucocitos (faltante),0.00333,0.0004,0.05568,27,64,87,↑ riesgo
+TP53 multihit,0.0033,0.00925,0.31977,28,15,14,↑ riesgo
+SEX=Female,0.00305,0.00182,0.0344,29,39,96,↑ riesgo
+SRSF2 mutado,0.00251,0.0025,0.38337,30,32,9,↓ riesgo
+WHO_2016=MDS-EB1,0.00238,0.0017,0.02598,31,41,100,↑ riesgo
++8,0.0023,0.00107,0.07817,32,47,73,↑ riesgo
+SEX=Male,0.00226,0.0018,0.05416,33,40,88,↓ riesgo
+U2AF1 mutado,0.00225,0.00782,0.71775,34,19,2,↑ riesgo
+Plaquetas (faltante),0.00219,0.00036,0.03835,35,66,94,↑ riesgo
+MDS_TYPE=primary,0.00218,0.00209,0.06016,36,37,84,↓ riesgo
+ZRSR2 mutado,0.00213,0.00072,0.11677,37,54,58,↓ riesgo
+RUNX1 mutado,0.00207,0.01285,0.413,38,11,8,↑ riesgo
+ASXL1 mutado,0.00203,0.00522,0.2171,39,23,32,↑ riesgo
+WHO_2016=MDS-RS-SLD,0.00198,0.00079,0.15917,40,52,50,↑ riesgo
+−Y,0.00198,7e-05,0.19846,41,83,38,↓ riesgo
+WHO_2016=MDS-MLD,0.00189,0.00137,0.00651,42,43,111,↓ riesgo
+Hemoglobina (faltante),0.00188,0.00062,0.0767,43,57,74,↑ riesgo
+EZH2 mutado,0.00178,0.00062,0.047,44,58,91,↑ riesgo
+Cariotipo complejo,0.00177,0.00521,0.06973,45,24,80,↑ riesgo
+Riesgo citogenético IPSS-R (faltante),0.00159,0.00071,0.10795,46,55,61,↑ riesgo
+IDH2 mutado,0.00144,0.00131,0.18502,47,46,43,↑ riesgo
+STAG2 mutado,0.00141,0.00238,0.0744,48,35,75,↑ riesgo
+KMT2A-PTD,0.0012,0.00401,0.8812,49,27,1,↑ riesgo
+MDS_TYPE=secondary_therapy,0.00119,0.00136,0.30593,50,44,17,↓ riesgo
+TP53 mutado,0.00118,0.00292,0.15307,51,30,52,↑ riesgo
+WHO_2016=CMML,0.00103,0.00098,0.20407,52,48,35,↑ riesgo
+MDS_TYPE=Desconocido,0.00101,0.0025,0.34633,53,33,11,↑ riesgo
+EP300 mutado,0.00099,0.0,0.32487,54,105,13,↑ riesgo
+SETBP1 mutado,0.00099,0.00017,0.13872,55,76,55,↓ riesgo
+WHO_2016=MDS-SLD,0.00097,0.0006,0.11185,56,60,60,↑ riesgo
+NFE2 mutado,0.00095,1e-05,0.07395,57,103,76,↓ riesgo
+KRAS mutado,0.00094,9e-05,0.0088,58,81,109,↓ riesgo
+Cariotipo no disponible,0.00093,0.00094,0.24328,59,49,27,↓ riesgo
+IDH1 mutado,0.00072,0.00075,0.16945,60,53,47,↑ riesgo
+NRAS mutado,0.00069,0.00135,0.16823,61,45,48,↑ riesgo
+CEBPA mutado,0.00068,7e-05,0.00278,62,86,113,↑ riesgo
+−7/del(7q),0.00067,0.00248,0.08338,63,34,69,↓ riesgo
+WHO_2016=MDS-U,0.00067,0.00028,0.03719,64,71,95,↓ riesgo
+WHO_2016=MDS/MPN-U,0.00065,0.00028,0.18518,65,72,42,↑ riesgo
+del(20q),0.00065,0.00044,0.41745,66,62,7,↓ riesgo
+WHO_2016=MDS-RS-MLD,0.0006,0.00029,0.0107,67,69,108,↑ riesgo
+ETNK1 mutado,0.00059,0.0001,0.23631,68,80,31,↑ riesgo
+LOH/deleción locus TP53,0.00058,0.00093,0.20268,69,50,36,↑ riesgo
+WHO_2016=MDS-del5q,0.00058,0.00227,0.30432,70,36,18,↑ riesgo
+CUX1 mutado,0.00056,0.00036,0.28393,71,67,24,↓ riesgo
+CBL mutado,0.00054,0.0006,0.03286,72,61,97,↓ riesgo
+BCOR mutado,0.00052,0.00061,0.00427,73,59,112,↓ riesgo
+WT1 mutado,0.0005,7e-05,0.2382,74,84,30,↑ riesgo
+KMT2D mutado,0.00048,5e-05,0.19569,75,89,39,↑ riesgo
+FLT3 mutado,0.00043,0.0,0.05164,76,109,89,↓ riesgo
+del(12p),0.00043,0.00017,0.294,77,77,21,↑ riesgo
+WHO_2016=MDS/MPN-RS-T,0.00043,6e-05,0.07962,78,87,72,↓ riesgo
+ETV6 mutado,0.00042,0.00029,0.04715,79,70,90,↑ riesgo
+KMT2C mutado,0.00036,4e-05,0.06258,80,93,83,↑ riesgo
+KDM6A mutado,0.00036,0.0,0.20905,81,109,33,↓ riesgo
+PRPF8 mutado,0.00036,5e-05,0.30667,82,90,16,↓ riesgo
+PHF6 mutado,0.00033,0.0003,0.03188,83,68,98,↓ riesgo
+NF1 mutado,0.00031,0.00088,0.31466,84,51,15,↑ riesgo
+−17/del(17p),0.00031,0.0004,0.20898,85,65,34,↑ riesgo
+ZBTB33 mutado,0.0003,1e-05,0.05594,86,101,86,↓ riesgo
+FLT3 (ITD/TKD),0.0003,1e-05,0.08179,87,102,70,↑ riesgo
+MPL mutado,0.00029,2e-05,0.23885,88,98,28,↑ riesgo
+CTCF mutado,0.00028,3e-05,0.28942,89,94,23,↓ riesgo
+GNAS mutado,0.00028,0.0,0.10038,90,109,65,↑ riesgo
+CSNK1A1 mutado,0.00028,2e-05,0.18239,91,99,44,↓ riesgo
+NPM1 mutado,0.00027,0.00014,0.32912,92,79,12,↑ riesgo
+DDX41 mutado,0.00025,0.0002,0.23844,93,75,29,↓ riesgo
+PTPN11 mutado,0.00025,0.00025,0.25537,94,74,25,↑ riesgo
+WHO_2016=MDS-SLD/MLD,0.00025,3e-05,0.12544,95,95,57,↑ riesgo
+del(11q),0.00024,0.00068,0.54986,96,56,3,↓ riesgo
+BRCC3 mutado,0.00023,9e-05,0.20237,97,82,37,↑ riesgo
+CREBBP mutado,0.00022,0.0,0.18892,98,109,41,↓ riesgo
+GNB1 mutado,0.00022,2e-05,0.07146,99,97,77,↓ riesgo
+PPM1D mutado,0.00021,1e-05,0.06402,100,100,82,↑ riesgo
+WHO_2016=Desconocido,0.0002,0.00163,0.06952,101,42,81,↑ riesgo
+JAK2 mutado,0.00019,0.00026,0.0583,102,73,85,↓ riesgo
+U2AF2 mutado,0.00017,0.0,0.01704,103,109,104,↑ riesgo
+inv(3)/t(3;3),0.00016,0.0,0.02582,104,109,101,↓ riesgo
+FLT3-ITD,0.00011,0.0,0.09908,105,109,67,↑ riesgo
+SH2B3 mutado,0.00011,2e-05,0.013,106,96,107,↓ riesgo
+ARID2 mutado,0.0001,0.00016,0.10318,107,78,63,↓ riesgo
+SMC1A mutado,0.0001,4e-05,0.45811,108,91,5,↑ riesgo
+GATA2 mutado,9e-05,5e-05,0.29002,109,88,22,↑ riesgo
+MGA mutado,6e-05,7e-05,0.01414,110,85,105,↑ riesgo
+BCORL1 mutado,5e-05,4e-05,0.1785,111,92,45,↑ riesgo
+ASXL2 mutado,5e-05,1e-05,0.01735,112,104,103,↑ riesgo
+WHO_2016=Other,3e-05,0.0,0.02516,113,109,102,↑ riesgo

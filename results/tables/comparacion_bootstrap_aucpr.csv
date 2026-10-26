@@ -1,0 +1,4 @@
+comparación,métrica,diferencia_media,IC2.5,IC97.5,p_bootstrap
+Red neuronal (DNN) − IPSS-M (puntuación),AUC-PR,0.0709,-0.0007,0.144,0.055
+Red neuronal (DNN) − Random forest,AUC-PR,-0.0029,-0.0792,0.0737,0.933
+Red neuronal (DNN) − Regresión logística,AUC-PR,-0.0153,-0.0744,0.0398,0.627

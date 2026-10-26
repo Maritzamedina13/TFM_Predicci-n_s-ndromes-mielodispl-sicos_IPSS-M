@@ -1,0 +1,7 @@
+comparación,AUC_a,AUC_b,ΔAUC,p_DeLong
+Red neuronal (DNN) vs IPSS-M (puntuación),0.7536,0.7253,0.0284,0.1592
+Red neuronal (DNN) vs Random forest,0.7536,0.7765,-0.0228,0.1606
+Red neuronal (DNN) vs Regresión logística,0.7536,0.7652,-0.0116,0.4973
+Random forest vs IPSS-M (puntuación),0.7765,0.7253,0.0512,0.0182
+Regresión logística vs IPSS-M (puntuación),0.7652,0.7253,0.04,0.0959
+IPSS-M (puntuación) vs IPSS-R (puntuación),0.7253,0.6546,0.0706,0.0008

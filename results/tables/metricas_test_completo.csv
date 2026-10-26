@@ -1,0 +1,4 @@
+modelo,n,AUC-ROC,AUC-PR,Brier,calib_pendiente,calib_intercepto,umbral,sensibilidad,especificidad,VPP,VPN,F1,TP,FP,TN,FN,Brier_recalibrado
+Regresión logística,522,0.7518,0.4187,0.1983,0.7864,-1.4949,0.3978,0.734,0.6098,0.2924,0.9126,0.4182,69,167,261,25,0.1278
+Random forest,522,0.7572,0.4075,0.1472,0.9799,-0.7981,0.3017,0.766,0.6238,0.309,0.9239,0.4404,72,161,267,22,0.1296
+Red neuronal (DNN),522,0.7432,0.4164,0.1372,1.0595,-0.4691,0.2688,0.7128,0.6519,0.3102,0.9118,0.4323,67,149,279,27,0.1313

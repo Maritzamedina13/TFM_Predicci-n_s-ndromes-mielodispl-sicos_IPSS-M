@@ -1,0 +1,20 @@
+{
+  "Regresión logística": {
+    "clf__C": 0.1
+  },
+  "Random forest": {
+    "clf__max_depth": null,
+    "clf__max_features": 0.3,
+    "clf__min_samples_leaf": 5
+  },
+  "Red neuronal (DNN)": {
+    "clf__learning_rate": 0.0003,
+    "clf__l2": 0.0001,
+    "clf__hidden_units": [
+      128,
+      64
+    ],
+    "clf__dropout": 0.5,
+    "clf__batch_size": 64
+  }
+}
