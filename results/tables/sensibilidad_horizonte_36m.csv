@@ -1,5 +1,5 @@
 modelo,n,eventos,AUC-ROC,AUC-PR
 Regresión logística,1842,430,0.7602,0.4699
 Random forest,1842,430,0.774,0.4732
-Red neuronal (DNN),1842,430,0.7453,0.4453
+Red neuronal (DNN),1842,430,0.7469,0.448
 IPSS-M (puntuación)*,1697,392,0.7454,0.4378

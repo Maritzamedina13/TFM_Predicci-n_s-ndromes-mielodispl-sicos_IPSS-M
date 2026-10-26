@@ -1,8 +1,8 @@
 {
   "umbrales_youden": {
-    "Regresión logística": 0.3977566664732369,
+    "Regresión logística": 0.3977566664734621,
     "Random forest": 0.3016691006036305,
-    "Red neuronal (DNN)": 0.26884856820106506,
+    "Red neuronal (DNN)": 0.26884859800338745,
     "IPSS-M (puntuación)": -0.18,
     "IPSS-R (puntuación)": 4.0
   },
